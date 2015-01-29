@@ -1,0 +1,79 @@
+!= g]kfnLdf gfd / short name 6fOk ug]{ jgfpg' kg]{ .
+
+@= !=! df "Government" display eO{/x]sf] 5 . Blank x'g' kg]{ .
+
+3. 2.8a should be aligned
+
+4. In 3.3.2 should be "Gas" as default but should be blank. *
+
+5. In 4.4 there is "office" missing in at the end of "Water Service Provider" *
+
+6. Please change HC as House Connection (HC) in all places. *
+
+7. In 8.1, 8.2 and 8.4, should display grand total figure. *
+
+8. Same as 7, Total Annual Expenses should be displayed.
+
+9. In 9 please add Fiscal Year and should be aligned.
+
+10. In 10.1 and 10.2 it should be displayed the Total *
+
+11. In 11 see the alignment
+
+12. In 5.1.1 People Served does not display second time.
+
+13. In 6.1 and 7 Total does not display second time.*
+
+14. In 1.20, I think we need to add one text field to enter the Mission 
+
+15. In 11.2 please add "Days" after label.
+
+16. In 11.8 spelling mistake in "Percentage" and please add "%" after *
+
+17. In 3.4 Label missing *
+
+18. In 10.4 please add "%" after label. *
+
+19. Need save buttons in every screens.
+
+20. It seems that the Edit function is not working.
+
+Statement.
+
+label.
+
+
+************************************************************************
+
+1. Other data entry screen should be developed under System Maintenance
+
+including Users Maintenance.
+
+2. Right alignment in Number fields *
+
+3. Nepali Fonts
+
+4. Under 8.6 Total Annual Expenses should calculated and displayed *
+
+5. Do some indent in 10.1 and 10.2
+
+6. In 11.2 please add "Days" after label. *
+
+7. In 1.20, I think we need to add one text field to enter the Mission  //// add field 1.20a
+
+Statement. *
+
+8. In 6.1 Display nepali FY
+
+9. Add lable "7.1 Annual volume of Water billed/sold in FY ....." after 7.*
+
+10. Add "FY ......." In after the label of 8.1 and check the grand total when 
+you come second time.*
+
+
+
+////*************
+
+add field 7.2
+
+7.2 Authorized Unbilled Consumption(AUC) _________ cu. m.
