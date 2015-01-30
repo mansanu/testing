@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sanu manandhar computer
+=======
+from nainajoshi computer
+
+
+>>>>>>> 6b297d40454ad4232a74a8e5d12e49ea2ad7593a
