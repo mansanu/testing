@@ -1,3 +1,4 @@
 <?php
-echo "myname is sanu manandhar"
+echo "My name must be in first line";
+echo "myname is sanu manandhar";
 ?>
